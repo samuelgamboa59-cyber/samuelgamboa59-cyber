@@ -36,7 +36,9 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
-
+🎓 Estudiante de la Universidad Autónoma de Nariño (AUNAR)•
+📍 Colombia•
+🌱 En constante aprendizaje
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
