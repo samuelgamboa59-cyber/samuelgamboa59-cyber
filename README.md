@@ -40,6 +40,14 @@
 •📍 Colombia
 •🌱 En constante aprendizaje
 
+Languages: TypeScript · JavaScript · Python · SQL
+
+Frontend: Angular · React · Next.js · Tailwind CSS · Web Components · WebAssembly
+
+Backend & infra: Node.js · NestJS · FastAPI · Cloudflare Workers · Docker · PostgreSQL · Redis · GitHub Actions
+
+AI & ML: LangChain · LangGraph · RAG · Prompt engineering · TensorFlow.js · Voice AI
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
