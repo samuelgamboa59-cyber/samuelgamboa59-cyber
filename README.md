@@ -40,6 +40,7 @@
 •📍 Colombia
 •🌱 En constante aprendizaje
 
+
 Languages: TypeScript · JavaScript · Python · SQL
 
 Frontend: Angular · React · Next.js · Tailwind CSS · Web Components · WebAssembly
